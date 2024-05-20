@@ -43,8 +43,6 @@ def generate_schema(graph):
 
 
 def promptMe(prompt):
-
-    os.environ["OPENAI_API_KEY"] = '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'
     completions = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         temperature=0.0,

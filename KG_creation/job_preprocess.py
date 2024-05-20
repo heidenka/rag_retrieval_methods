@@ -86,8 +86,6 @@ def generate_job_data():
         job["categories"] = categories
         job["skills"] = skills
 
-        os.environ["OPENAI_API_KEY"] = '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'
-
         prompt = f"""
 TASK:
 Your job is to find the required skills from a job the user provides, while adhering to our guidelines.

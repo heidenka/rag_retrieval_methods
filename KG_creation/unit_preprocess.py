@@ -43,8 +43,6 @@ def generate_unit_outcomes(json_data):
         content = unit_data["Content"]
         unit_learning_outcomes = unit_data["Unit Learning Outcomes"]
 
-        os.environ["OPENAI_API_KEY"] = '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'
-
         unit_info = f"{content} {unit_learning_outcomes}"
         instruction = f"""
 Your role is to find matching categories. A user will give you a description. 

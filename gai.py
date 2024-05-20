@@ -25,8 +25,6 @@ import_url = "https://gist.githubusercontent.com/tomasonjo/08dc8ba0e19d592c4c3cd
 import_query = requests.get(import_url).json()['query']
 graph.query(import_query) # method to execute queries is just .query
 
-os.environ['OPENAI_API_KEY'] = "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"
-
 #calculate the embedding values and create the vector index
 vector_index = Neo4jVector.from_existing_graph(
     OpenAIEmbeddings(),
