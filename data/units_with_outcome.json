@@ -1,0 +1,1408 @@
+[
+    {
+        "Unit Code": "CITS1401",
+        "Title": "Computational Thinking with Python - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Computers are everywhere and in nearly everything - the watch you wear, the phone you use, the car you drive, the games you play and, increasingly, in your home. CITS140 I is the first step along your path to being able to use computers to solve problems. Because computers cannot yet work using human languages, computer languages have been devised to allow algorithms encoding solutions to problems to be executed on computers. In this unit you will learn about, and use, the very popular language Python 3. Along the way you will also learn some problem solving techniques and how to create algorithms; you will also learn how computers execute your programs",
+        "Unit Learning Outcomes": [
+            "create algorithms using computational thinking to solve a range of problems",
+            "write programs using Python 3 to implement algorithms",
+            "demonstrate the process of computational problem solving",
+            "apply common approaches to computational problem solving"
+        ],
+        "outcomes": [
+            "Python",
+            "algorithms",
+            "programming",
+            "computational problem solving",
+            "execution model"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "Python",
+            "algorithms",
+            "programming",
+            "computational problem solving",
+            "execution model"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS3200",
+        "Title": "Professional Computing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Unlike other computing units you will have taken, which are about different aspects of computer or data science, CITS3200 Professional Computing is deliberately outward facing - to your future role in industry. For example, the unit teaches an appreciation of the ethical and social implications of computing projects, and aspects of project management, in the context of a large-scale computing projects. The bulk of the unit is then taken up with a large group project involving five or six students per group. The project will give you the opportunity to practice various project management techniques and communication skills, and to try different roles in a computing project team.",
+        "Unit Learning Outcomes": [
+            "apply computer systems knowledge and skills in project situations",
+            "use agile methodology in software development",
+            "solve problems in computer systems and software development",
+            "justify the professional responsibility to produce reliable software",
+            "assess the social impacts of computing projects",
+            "perform effectively as part of a multidisciplinary and multicultural team"
+        ],
+        "outcomes": [
+            "professional responsibility",
+            "social impacts",
+            "agile methodology",
+            "software development",
+            "computer systems",
+            "multidisciplinary team"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "professional responsibility",
+            "social impacts",
+            "agile methodology",
+            "software development",
+            "computer systems",
+            "multidisciplinary team"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS3007",
+        "Title": "Secure Coding - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit covers different types of security vulnerabilities of computer systems and how to prevent and mitigate the effects of them.  Topics include: (1) memory and Arithmetic Errors; (2) validated input and inter-process communication; (3) race conditions and file operations; (4) cryptographic practises; and (5) development practices.",
+        "Unit Learning Outcomes": [
+            "demonstrate an understanding of the basic execution model of computer programs and how programs represent and access their resources",
+            "explain a range of common software vulnerabilities, the threats that they pose to correct execution, and steps to mitigate them",
+            "validate a program's input data and external connections",
+            "apply industry standard secure programming practices",
+            "develop a systems approach to the evaluation of a software system to identify security vulnerabilities"
+        ],
+        "outcomes": [
+            "computer systems",
+            "software vulnerabilities",
+            "input validation",
+            "secure programming practices",
+            "execution model"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "computer systems",
+            "software vulnerabilities",
+            "input validation",
+            "secure programming practices",
+            "execution model"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS4012",
+        "Title": "Natural Language Processing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Natural Language has been and will remain as the most preferred way to store and transfer knowledge. More than 80% of electronic data in modern societies are generated and stored in textual format. How to process unstructured text to extract useful insights and support actionable decision making and discover the hidden treasure of collective intelligence is of enormous value. In this unit, we start with traditional text processing techniques using Regular Expressions and discuss the needs of text processing and normalisation. We then introduce fundamental pipelines of natural language processing (NLP), including part-of-speech tagging and various ways of sentence parsing, with the aim of introducing traditional text feature collection techniques for higher-level tasks such as sentiment or document classification. Building on the understanding of the pros and cons of feature-based NLP pipeline approaches, the unit moves onto the modern approach of deep learning for NLP, focusing on word vector representation, neural language models, and recurrent neural networks for NLP.  The unit situates the techniques around major NLP tasks, including information extraction, sentiment detection, dialogue systems and machine translation.",
+        "Unit Learning Outcomes": [
+            "apply pre-processing techniques for textual data preparation",
+            "build pipelines for core NLP tasks",
+            "critically analyse different language models",
+            "explain how vector representations of words can be obtained",
+            "evaluate performance of NLP solutions, both traditional and neural",
+            "undertake core components of major NLP tasks"
+        ],
+        "outcomes": [
+            "NLP",
+            "language models",
+            "vector representations",
+            "performance evaluation",
+            "deep learning"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "NLP",
+            "language models",
+            "vector representations",
+            "performance evaluation",
+            "deep learning"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS4001",
+        "Title": "Computer Science and Software Engineering Research Project Part 1 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit is taken over two semesters and parts 1 and 2 must be completed to fulfil the requirements of the unit. Students can commence the unit in either semester one or semester two. Students undertake a major research project on a topic relevant to the computing discipline.",
+        "Unit Learning Outcomes": [
+            "apply research methodologies to plan and execute a research investigation",
+            "develop skills in problem formulation, in designing and analysing solutions and experiments, and in the presentation of research findings"
+        ],
+        "outcomes": [
+            "research investigation",
+            "computational problem solving",
+            "academic writing",
+            "research methodologies"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "research investigation",
+            "computational problem solving",
+            "academic writing",
+            "research methodologies"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS5508",
+        "Title": "Machine Learning - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "There is an explosion in data generation and data collection due to improvements in sensing technologies and business processes. Extracting meaningful knowledge from large amounts of data has become a priority for businesses as well as scientific domains. Machine learning provides core underlying theory and techniques to data analytics, where algorithms iteratively learn from data to uncover hidden insights. In this unit, students will develop in-depth understanding of machine learning techniques that are applicable to both scientific and business data. The topics covered by the unit include supervised classification, unsupervised classification, regression, support vector machines, decision trees, random forests, dimensionality reduction, artificial neural networks, deep neural networks, autoencoders, and reinforcement learning.",
+        "Unit Learning Outcomes": [
+            "explain the role of machine learning in knowledge extraction",
+            "explain the difference between supervised and unsupervised learning algorithms",
+            "demonstrate a systematic knowledge of algorithmic machine learning approaches",
+            "produce practical implementations of machine learning solution for a real-world dataset",
+            "analyse data datasets from the perspective of machine learning",
+            "evaluate what deep learning is, what makes it work or fail, and critique where it should be applied"
+        ],
+        "outcomes": [
+            "machine learning",
+            "data analysis",
+            "deep learning",
+            "algorithms"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "machine learning",
+            "data analysis",
+            "deep learning",
+            "algorithms"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS4009",
+        "Title": "Computational Data Analysis - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit answers an urgent call to harness the unprecedented amount of data now generated from every facet of our daily\nlife by introducing data science as the discipline dealing with collecting, representing, manipulating and visualising data in\ncontemporary society. Students taking the unit learn to write computer programs to extract, transform and integrate data\nfrom multiple heterogeneous sources, including traditional relational databases and web-based resources. Different data\nrepresentation formats such as XML, JSON and HDF5, as well as storage options including SQL and NOSQL type of\ndatabases, are introduced and compared. Another core objective is the development of programming skills to enable\neffective and meaningful visualisation of the data. Students are given the opportunity to put the learned knowledge\nin data acquisition, data processing, data representation and exploratory visualisation into practice through projects that are\nhighly relevant to real-world data analytics. The unit provides the fundamental knowledge, introduces the essential\nprocesses for exploratory data analysis and builds the specific critical programming skills required during the journey of growing a student into a capable data scientist.",
+        "Unit Learning Outcomes": [
+            "write programs to systematically collect, process and integrate data of different types and from different sources.",
+            "select appropriate data visualisation options",
+            "demonstrate programming abilities to build solutions for exploratory data analysis using visualisation and clustering techniques",
+            "critically assess the outcomes of a data analysis",
+            "communicate effectively with stakeholders"
+        ],
+        "outcomes": [
+            "data science",
+            "data integration",
+            "data visualization",
+            "programming",
+            "database implementation",
+            "SQL",
+            "scripting languages",
+            "data analysis",
+            "stakeholder communication"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "data science",
+            "data integration",
+            "data visualization",
+            "programming",
+            "database implementation",
+            "SQL",
+            "scripting languages",
+            "data analysis",
+            "stakeholder communication"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS4402",
+        "Title": "Computer Vision - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Computer vision is the science of automatically computing information and making decisions from an observed image, image set or an image sequence. It combines concepts from 'image processing' (in the spatial and frequency domains) and 'pattern recognition'. Computer vision has a wide number of potential applications, including satellite imaging, control and measurement, industrial inspection, surveillance (e.g. face recognition) and medical applications. This unit covers topics such as binary image analysis, greyscale image manipulation, linear and nonlinear filtering, feature extraction, image enhancement, image segmentation and recognition. It also covers camera calibration and projective geometry and how three-dimensional information can be reconstructed from single images, stereo pairs of images and motion sequences. In the future, it is anticipated that computer vision systems will become prevailing, and that vision technology will be more applied across a broad range of business and consumer products. This will result in a strong industry demand for computer vision engineers\u2014for people who understand vision technology and know how to apply it in real-world problems.",
+        "Unit Learning Outcomes": [
+            "explain computer vision problems in writing",
+            "write MATLAB code to solve computer vision problems",
+            "describe the theories and principles in computer vision",
+            "conduct independent research on a chosen research topic, write a small research report, and give an oral presentation",
+            "demonstrate logical thinking and problem-solving skills",
+            "process images in both the spatial and frequency domains",
+            "explain the technical theory behind formation of images",
+            "critique various methodologies for solving problems in computer vision and image processing"
+        ],
+        "outcomes": [
+            "computer vision",
+            "image processing",
+            "MATLAB",
+            "research investigation",
+            "academic writing"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "computer vision",
+            "image processing",
+            "MATLAB",
+            "research investigation",
+            "academic writing"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS3403",
+        "Title": "Agile Web Development - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit explores technologies, programming languages and environments that underpin the development of modern web applications. It builds on students' previous programming and data management experience to develop and demonstrate technologies in action. Topics and techniques evolve from year to year to stay at the technological front-end of the rapidly changing web and internet fields. Examples include historical milestones of the internet and web; client/server models; internet protocols; document standards; development environments; client-side, server-side programming; n-tiered application architectures; database access and abstraction; and open-source tools.",
+        "Unit Learning Outcomes": [
+            "explain the key components that work together to enable the delivery of data and services on today's internet",
+            "understand the technologies behind the terms and how they fit together, and back this up with examples of hands-on programming experience",
+            "develop web applications using client side and server side technologies.",
+            "explain and apply agile project methodologies"
+        ],
+        "outcomes": [
+            "internet technologies",
+            "web applications",
+            "database implementation",
+            "agile methodology",
+            "programming",
+            "software development"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "internet technologies",
+            "web applications",
+            "database implementation",
+            "agile methodology",
+            "programming",
+            "software development"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS4407",
+        "Title": "Open Source Tools and Scripting - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit introduces students to the philosophy, design, tools and practices that enable and facilitate the success of open source software, which runs much of the world's computer infrastructure. Important topics covered include the use of the shell as a programming language, the use of the file system and pipes to support interprocess communication, fundamental software components, tools supporting the software development and maintenance process, and the importance of consistent interfaces to support software integration.",
+        "Unit Learning Outcomes": [
+            "describe the role of software tools and their integration through scripting languages",
+            "recognise the importance of consistency in software tool interfaces",
+            "identify and deploy fundamental software components that facilitate software integration and re-use"
+        ],
+        "outcomes": [
+            "software development",
+            "scripting languages",
+            "software integration"
+        ],
+        "invalid_outcomes": [
+            "software integration"
+        ],
+        "valid_outcomes": [
+            "software development",
+            "scripting languages"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS1402",
+        "Title": "Relational Database Management Systems - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit deals with data modelling through the theory and practice of database design, implementation and use. Several database models are addressed, with a strong focus on the relational model and its theoretical grounding in sets and relational algebra. The process of problem decomposition into entity-relations, the design of appropriate relational schemas, and their refinement through normalisation underlies the unit. Critical issues surrounding the design of query languages and their implementation are addressed, and information retrieval is practised using a specific query language. Students learn database connectivity by building systems in one of several programming languages that support a connectivity Application Programming Interface (API).",
+        "Unit Learning Outcomes": [
+            "understand existing database implementation and create refinements and improvements through analysis",
+            "understand the 'business' requirements to design a database",
+            "refine the database to improve and ensure correctness and reliability",
+            "correctly program structured query language (SQL) queries and reports",
+            "build an application layer interface for easier user interaction"
+        ],
+        "outcomes": [
+            "database implementation",
+            "SQL",
+            "data analysis",
+            "software development"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "database implementation",
+            "SQL",
+            "data analysis",
+            "software development"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS2002",
+        "Title": "Systems Programming - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Understanding the relationship between a programming language and the contemporary operating systems on which it executes is central to developing many skills in Computer Science. This unit introduces the standard C programming language, on which many other programming languages and systems are based, through a study of core operating system services including input and output, memory management and file systems. The C language is introduced through discussions on basic topics like data types, variables, expressions, control structures, scoping rules, functions and parameter passing. More advanced topics like C's run-time environment, system calls, dynamic memory allocation, pointers and recursion are presented in the context of operating system services related to process execution, memory management and file systems. The importance of process scheduling, memory management and interprocess communication in modern operating systems is discussed in the context of operating system support for multiprogramming. Laboratory and practical class work place a strong focus on the practical application of fundamental programming concepts, with examples designed to compare and contrast many key features of contemporary operating systems.",
+        "Unit Learning Outcomes": [
+            "identify and appreciate the fundamentals of the imperative programming paradigm, using the standard C programming language as an example",
+            "decide when to choose the C programming language and its standard library for their systems programming requirements;",
+            "apply the most appropriate techniques to successfully develop robust systems programs in the C language;",
+            "explain the role of an operating system in the wider computing context;",
+            "explain the relationship and interactions between an operating system's critical components and their affect on performance;",
+            "demonstrate an understanding of the relationship between contemporary operating systems, programming languages and systems-level application programming interfaces"
+        ],
+        "outcomes": [
+            "programming",
+            "computer systems",
+            "imperative programming",
+            "operating systems"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "programming",
+            "computer systems",
+            "imperative programming",
+            "operating systems"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS3006",
+        "Title": "Penetration Testing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Students learn how to conduct basic computer system vulnerability analysis and penetration testing looking from an attacker's perspectives to find and exploit vulnerabilities, as well as looking from the defender's perspectives to patch vulnerabilities and conduct forensics to mitigate attacks.",
+        "Unit Learning Outcomes": [
+            "identify security vulnerabilities in computer systems",
+            "demonstrate an understanding of different penetration testing methods and skills",
+            "design basic penetration testing methods",
+            "select appropriate penetration testing tools for different applications/platforms/environments",
+            "evaluate security design, implementation and penetration testing practices"
+        ],
+        "outcomes": [
+            "cybersecurity",
+            "penetration testing",
+            "software vulnerabilities",
+            "secure programming practices"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "cybersecurity",
+            "penetration testing",
+            "software vulnerabilities",
+            "secure programming practices"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS2401",
+        "Title": "Computer Analysis and Visualisation - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "In this unit, students develop an understanding of scientific computing and modelling, analysis, problem solving and visualisation.  They understand the approach of computational modelling; will develop strong programming skills in data analysis modelling; understand limitations and uncertainty in models; devise and implement computational models; analyse data and hypotheses; are aware of reliability and correctness; and are able to perform simulation and testing.",
+        "Unit Learning Outcomes": [
+            "devise and produce graphs and visualisations of numerical data",
+            "analyse data and hypotheses",
+            "demonstrate strong programming skills",
+            "manage data using spreadsheet applications",
+            "understand the computational model, limitations and uncertainty",
+            "devise and implement computational models and simple numerical methods in a modern programming language"
+        ],
+        "outcomes": [
+            "scientific computing",
+            "computational modelling",
+            "data analysis",
+            "programming",
+            "data visualization",
+            "spreadsheet applications",
+            "simulation and testing",
+            "numerical data visualization"
+        ],
+        "invalid_outcomes": [
+            "scientific computing",
+            "simulation and testing"
+        ],
+        "valid_outcomes": [
+            "computational modelling",
+            "data analysis",
+            "programming",
+            "data visualization",
+            "spreadsheet applications",
+            "numerical data visualization"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS1003",
+        "Title": "Introduction to Cybersecurity - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit introduces students to the fundamental concepts of cybersecurity. Starting with an understanding that cybersecurity aims to protect information systems (hardware, software and associated infrastructure), the data on them, and the services they provide, from unauthorised access, harm or misuse. As a fundamental part of this, information security is the preservation of confidentiality, integrity and availability of information. \n\nThe unit will cover areas as defined in the Cyber Security Book of Knowledge (CyBoK) as recommended by the Australian Computer Society (ACS).  These areas include: (1) Human, Organisational and Human, Organisational and Regulatory Aspects; (2) Attacks and Defences; (3) Security; (4) Software Platform Security; and (5) Infrastructure Security.",
+        "Unit Learning Outcomes": [
+            "describe the concepts of cybersecurity and information security as made up by the different domains of knowledge in the unit outline",
+            "specify the role of cybersecurity risk management in an overall strategy of providing information security by applying mitigations in the different cybersecurity domains",
+            "define the legal and ethical responsibilities of a cybersecurity professional"
+        ],
+        "outcomes": [
+            "cybersecurity",
+            "professional responsibility",
+            "software vulnerabilities",
+            "secure programming practices"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "cybersecurity",
+            "professional responsibility",
+            "software vulnerabilities",
+            "secure programming practices"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS1001",
+        "Title": "Software Engineering with Java - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit introduces the language structures and techniques needed to write well-structured programs in the object-oriented paradigm using the Java programming language. In particular, the process of developing appropriate classes, objects and methods to solve simple computational problems underlies the entire unit. Core computer programming topics such as the use of variables, primitive and reference data types, expressions, control structures involving selection and repetition, method decomposition and parameter passing are all covered in this context. Algorithmic techniques such as iteration, sorting, searching along with programming practices such as error handling, testing, debugging and documentation are introduced. The unit also covers advanced topics such as association, inheritance and interface. A strong focus is placed on the practical application of these concepts and techniques to produce working programs in computer laboratories. The rationale for using the object-oriented paradigm, and in particular the language Java, is covered in detail. No prior knowledge of computing or programming is assumed.",
+        "Unit Learning Outcomes": [
+            "interpret the behaviour of simple Java programs",
+            "implement Java classes from specifications",
+            "understand and apply the object-oriented principles of information hiding and program by contract",
+            "make effective use of software development tools to write, test, debug and document Java programs",
+            "use a software engineering process to develop small Java programs",
+            "critique the quality of Java programs using criteria such as readability, encapsulation, cohesion and coupling"
+        ],
+        "outcomes": [
+            "programming",
+            "Java",
+            "object-oriented principles",
+            "software development",
+            "algorithms",
+            "software quality assurance"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "programming",
+            "Java",
+            "object-oriented principles",
+            "software development",
+            "algorithms",
+            "software quality assurance"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS5505",
+        "Title": "Agile Web Development - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit explores technologies, programming languages and environments that underpin the development of modern web applications. It builds on students' previous programming and data management experience to develop and demonstrate technologies in action. Topics and techniques evolve from year to year to stay at the technological front end of the rapidly changing web and internet fields. Examples include historical milestones of the internet and web; client/server models; internet protocols; document standards; development environments; client-side, server-side programming; n-tiered application architectures; database access and abstraction; open-source tools; and agile project methodologies.",
+        "Unit Learning Outcomes": [
+            "explain the key components that work together to enable the delivery of data and services on today's internet",
+            "explain the technologies behind the terms and how they fit together, and justify this with examples of hands-on programming experience",
+            "apply web technologies to effectively communicate",
+            "develop web applications using client side  and server side technologies",
+            "explain and apply agile project methodologies"
+        ],
+        "outcomes": [
+            "internet technologies",
+            "web applications",
+            "database implementation",
+            "agile methodology",
+            "programming"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "internet technologies",
+            "web applications",
+            "database implementation",
+            "agile methodology",
+            "programming"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS3401",
+        "Title": "Data Warehousing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Relational databases are the backbones of modern businesses in processing transactions and storing customer data. Most organisations usually deploy several relational databases for operational convenience. It is quite often necessary to integrate the information existing in different relational databases for planning and decision making. Data warehouses are built to facilitate planning and decision making in businesses integrating data from different relational databases. Online analytical processing (OLAP) is a technology that uses a data warehouse for answering aggregation queries often used in planning. While relational databases hold important transactional information of a business, the success of a business quite often depends on advanced planning and development of strategies based on customer behaviour. Data mining technologies are used for discovering such patterns and trends in data stored in relational databases. This unit introduces the key mechanisms in data warehousing and OLAP. It discusses logical and physical design of data warehouses including star schema, snowflake schema, data marts, partitioning and materialised views. Students study the use of data warehouses through a study of the OLAP technology including the multidimensional OLAP (MOLAP) and relational OLAP (ROLAP) architectures, OLAP operations and structured query language (SQL) support for OLAP.",
+        "Unit Learning Outcomes": [
+            "understand that discovering and extracting knowledge from a massive amount of data is a key problem in many scientific and business disciplines",
+            "demonstrate a thorough understanding of key data warehousing and online analytical processing technologies",
+            "apply key data warehousing concepts in designing solutions for business data analytics"
+        ],
+        "outcomes": [
+            "data warehousing",
+            "SQL",
+            "data analysis"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "data warehousing",
+            "SQL",
+            "data analysis"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS2402",
+        "Title": "Introduction to Data Science - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Data is ubiquitous in modern society. It is used to monitor the economy, inform business decisions, understand how the environment is changing, and communicate public health messages. Data science is a booming field that harnesses raw data and turns it into actionable knowledge. Data Scientists develop and employ tools to collect, understand and communicate data and its meaning. They are able to identify trends, understand demographics and  inform interventions. They are able to work across disciplines, from science to business, health, media and politics. But data can also be misused, and a professional Data Scientist will understand the ethical demands of responsible use of data. This hands-on unit provides practical experience, using the programming language Python, for solving real-world data science problems, from acquiring data from public sources, to understanding the data through analysis and modelling, to visualising and presenting the results.",
+        "Unit Learning Outcomes": [
+            "understand and implement the stages in the data science lifecycle, from data acquisition and cleaning through to analysis, modelling and visualisation",
+            "independently research, solve and communicate results for real-world data science problems from across a range of disciplines",
+            "demonstrate a command of computational structures and operations, and discuss the relevant efficiency and storage implications of alternative solutions",
+            "utilise appropriate encoding and visualisation methods for different types of data, including categorical, numerical and time-series data",
+            "understand the power of data used well or used poorly, and critically assess the way data is used and presented in business, science, the media and the wider community",
+            "recognise and discuss the ethical responsibilities of a data scientist"
+        ],
+        "outcomes": [
+            "data science",
+            "Python",
+            "data analysis",
+            "data visualization",
+            "professional responsibility",
+            "social impacts",
+            "multidisciplinary team",
+            "data-driven decision making",
+            "data integration"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "data science",
+            "Python",
+            "data analysis",
+            "data visualization",
+            "professional responsibility",
+            "social impacts",
+            "multidisciplinary team",
+            "data-driven decision making",
+            "data integration"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS5507",
+        "Title": "High Performance Computing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "High performance computing is an integral part of modern scientific and engineering research. Most physical systems are explored through simulation and modelling using high performance computing tools like parallel computers. This unit introduces students to the essential tools and techniques of high performance computing. The main objectives are to introduce students to different frameworks of parallel and distributed computing that they can use in their specific areas of interest. The students learn to program multi core processors using OpenMP, and clusters of personal computers using MPI. Students examine high performance computing case studies from different scientific disciplines and also work on individual or group projects to consolidate their learning.\nMapReduce is a programming paradigm for processing large data sets on clusters of computers. The implementation of MapReduce through Spark and the distributed file system HDFS has become a widely used programming model for high performance computing in the last decade. This unit will also introduce students to this programming model through lectures and laboratory exercises.",
+        "Unit Learning Outcomes": [
+            "formulate and implement high performance computing solutions for scientific problems and large scale data processing",
+            "demonstrate expertise in problem solving in parallel using distributed memory, distributed shared memory architectures and MapReduce problems , the  most common frameworks for high performance computing"
+        ],
+        "outcomes": [
+            "high-performance computing",
+            "parallel computers",
+            "simulation and modelling",
+            "programming",
+            "distributed computing",
+            "multithreading",
+            "data-driven decision making"
+        ],
+        "invalid_outcomes": [
+            "parallel computers",
+            "simulation and modelling",
+            "distributed computing"
+        ],
+        "valid_outcomes": [
+            "high-performance computing",
+            "programming",
+            "multithreading",
+            "data-driven decision making"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS5551",
+        "Title": "Software Engineering Design Project 1 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit is taken over two semesters and parts 1 and 2 must be completed to fulfil the requirements of the unit. The project is a capstone experience in which students integrate and apply knowledge and skills acquired in earlier units to a substantial real-world design challenge relevant to their discipline. Students work in teams, typically with four to six members, and are supervised by an academic and/or industry mentor. Teams are responsible for managing their project as well as reporting against milestones and preparing the necessary design documentation. The academic objectives of the project are to lead students through a systematic engineering design and synthesis process and to better prepare them for professional practice as engineers. The focus of the unit is on teamwork skills and the design process.",
+        "Unit Learning Outcomes": [
+            "apply engineering synthesis and design processes relevant to software engineering",
+            "seek out the requirements and associated resources to assess the scope, dimensions, scale of effort and indicative costs of a complex engineering project",
+            "apply technical knowledge, appropriate tools and problem-solving skills to achieve a desired outcome to satisfy user requirements",
+            "apply project management tools and processes to the planning and execution of a design project",
+            "demonstrate ethical conduct and professional accountability",
+            "critically analyse design inputs, processes and outputs",
+            "locate and apply relevant standards, regulations, and technical literature",
+            "use discourse conventions relevant to the discipline",
+            "communicate clearly, effectively and appropriately using written, oral and visual means",
+            "contribute to and/or manage a complex engineering project activity, as a member and/or leader of an engineering team"
+        ],
+        "outcomes": [
+            "engineering synthesis and design processes",
+            "multidisciplinary team",
+            "professional responsibility",
+            "project management tools and processes",
+            "ethical conduct",
+            "critical analysis",
+            "standards and regulations",
+            "academic writing",
+            "stakeholder communication",
+            "complex engineering project"
+        ],
+        "invalid_outcomes": [
+            "project management tools and processes",
+            "ethical conduct",
+            "critical analysis",
+            "standards and regulations",
+            "complex engineering project"
+        ],
+        "valid_outcomes": [
+            "engineering synthesis and design processes",
+            "multidisciplinary team",
+            "professional responsibility",
+            "academic writing",
+            "stakeholder communication"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS3002",
+        "Title": "Computer Networks - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit introduces students to the design and implementation of contemporary wired and wireless computer networks, the systems- and application-level software necessary to support their efficient operation, and the security and privacy factors introduced by networks and their applications.",
+        "Unit Learning Outcomes": [
+            "demonstrate an understanding of the basic physical operation of networks, including the concepts of data encoding and error detection and recovery;",
+            "explain the design motivation for, and operation of, contemporary wide-area, local-area and wireless networking technologies;",
+            "understand the TCP/IP protocol stack, and its support for client/server and peer-to-peer networking models;",
+            "apply industry standard networking programming interfaces from within procedural and object-oriented programming languages;",
+            "develop distributed applications for heterogeneous computer systems; and",
+            "understand the security and privacy factors raised by contemporary networks and their applications."
+        ],
+        "outcomes": [
+            "wireless networks",
+            "networking",
+            "security concepts",
+            "computer systems",
+            "imperative programming",
+            "object-oriented principles",
+            "cybersecurity"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "wireless networks",
+            "networking",
+            "security concepts",
+            "computer systems",
+            "imperative programming",
+            "object-oriented principles",
+            "cybersecurity"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS5014",
+        "Title": "Data Science Research Project Part 1 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "In this unit students develop a research project proposal supported by a literature review.  The research project topic may be chosen from a list of topics provided by the Department of Computer Science and Software Engineering or on a proposed topic relevant to Data Science and negotiated with the Project Supervisor. Students are expected to conduct qualitative research work or solve important data science research problems with certain research challenges.",
+        "Unit Learning Outcomes": [
+            "evaluate a selected body of work",
+            "identify research gaps and position one's own study in literature",
+            "formulate research questions with assistance from supervisor(s)"
+        ],
+        "outcomes": [
+            "research investigation",
+            "data science",
+            "academic writing"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "research investigation",
+            "data science",
+            "academic writing"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS3005",
+        "Title": "Knowledge Representation - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Knowledge Representation will cover tools and methodologies for the formal representation of knowledge in a machine readable format, and automated reasoning technologies. These technologies are important for capturing domain specific details and supporting and automating decision making processes. The course will cover: logical foundations of artificial intelligence, including first order, probabilistic and fuzzy logics; formal representation of knowledge domains, including description logics, ontologies and graphical models; reasoning techniques including logic programming and theorem proving; and applications to planning domains.",
+        "Unit Learning Outcomes": [
+            "formulate complex concepts, rules and arguments in an appropriate logical language.",
+            "select suitable tools and formalisms to capture domain specific knowledge in a machine readable format.",
+            "describe the theoretical foundation of logic programming.",
+            "design, verify and implement logic programs.",
+            "design and implement planning systems for a given domain."
+        ],
+        "outcomes": [
+            "AI and adaptive systems",
+            "machine readable format",
+            "logic programming",
+            "mathematical foundations"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "AI and adaptive systems",
+            "machine readable format",
+            "logic programming",
+            "mathematical foundations"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS4419",
+        "Title": "Mobile and Wireless Computing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Wireless computing technologies are increasingly used to provide internet connectivity for portable handheld devices and laptop computers, to permit ad-hoc communication between these same devices, and to enable the monitoring and control of our environment from remote locations. The current growth in affordable wireless computing devices presents many exciting opportunities and challenges. This unit introduces a number of topics fundamental to the study of mobile and wireless computing.",
+        "Unit Learning Outcomes": [
+            "explain the key concepts used for communication in wireless and mobile networks;",
+            "critically analyse communication protocols for wireless and mobile networks;",
+            "work in teams to design, build and analyse complex applications with mobile nodes and wireless connections;",
+            "examine confidentiality, integrity and availability for mobile and wireless networks; and",
+            "discuss ethical implications of security and privacy practices in contemporary wireless networks."
+        ],
+        "outcomes": [
+            "wireless networks",
+            "wireless and mobile networks",
+            "multidisciplinary team",
+            "cybersecurity",
+            "professional responsibility",
+            "social impacts"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "wireless networks",
+            "wireless and mobile networks",
+            "multidisciplinary team",
+            "cybersecurity",
+            "professional responsibility",
+            "social impacts"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS2003",
+        "Title": "Open Source Tools and Scripting - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit introduces students to the philosophy, design, tools and practices that enable and facilitate the success of open source software, which runs much of the world's computer infrastructure. Important topics covered include the use of the shell as a programming language, the use of the file system and pipes to support interprocess communication, fundamental software components, tools supporting the software development and maintenance process, and the importance of consistent interfaces to support software integration.",
+        "Unit Learning Outcomes": [
+            "describe the role of software tools and their integration through scripting languages",
+            "demonstrate the importance of consistency in software tool interfaces",
+            "deploy fundamental software components that facilitate software integration and re-use"
+        ],
+        "outcomes": [
+            "software development",
+            "scripting languages",
+            "software integration"
+        ],
+        "invalid_outcomes": [
+            "software integration"
+        ],
+        "valid_outcomes": [
+            "software development",
+            "scripting languages"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS5501",
+        "Title": "Software Testing and Quality Assurance - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Software testing and quality assurance processes are critical to ensure the success of software projects. This unit covers testing methodologies and theories including (1) standard test processes\u2014unit tests, integration, system, performance, acceptance and installation; (2) testing methods\u2014code inspections, equivalence class tests, path testing, conformance testing and use case tests; (3) verification and validation of software\u2014inspections, test case design and execution, and test metrics; (4) quality assurance\u2014ISO 9001 and CMMI standards, configuration management, process modelling, usability, complexity and process metrics, project and risk management, and reliability modelling; and (5) formal methods for design and verification.",
+        "Unit Learning Outcomes": [
+            "formally document and communicate software quality assurance processes",
+            "assess a software system/project for threats to project quality",
+            "describe the types of software quality, and measures that reflect software quality",
+            "design comprehensive tests to mitigate threats at the unit, system and user level",
+            "explain the testing process and manage and prioritise test suites",
+            "explain the principles of formal project correctness, and prove simple programs conform to a given specification"
+        ],
+        "outcomes": [
+            "software quality assurance",
+            "formal project correctness"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "software quality assurance",
+            "formal project correctness"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS4404",
+        "Title": "Artificial Intelligence and Adaptive Systems - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Building software modules that can learn from, and adapt to, a changing and unknown environment is the challenge facing many real-world problems, such as multi-robot coordination and navigation, modelling and problem solving for large complex systems. This unit covers a class of nature-inspired algorithms and structures for creating programs that demonstrate emergent adaptive and intelligent behaviours, including evolutionary algorithms, neural networks, machine learning and a range of optimisation techniques powered by swarm intelligence. They can be used to solve problems ranging from complex optimisation, adaptive learning to knowledge acquisition, which form the core research areas of artificial intelligence. Numerous research questions remain when such techniques are applied in real-world situations. In this interactive, project-based unit, students are given the opportunities to explore the above-mentioned advanced topics in artificial intelligence and adaptive systems, research into one topic or technique of interest and develop and apply software solutions in simulated environments.",
+        "Unit Learning Outcomes": [
+            "understand the general concepts and approaches used in building AI and adaptive systems;",
+            "perform a literature search and research investigation on at least one AI approach;",
+            "apply at least one AI approach to solve significant real-world problems;",
+            "participate effectively as a member of a team and contribute constructively to team goals;",
+            "produce scientific writing that explains the hypothesis, experimental design, and evaluation strategy of a problem solution with existing systems;",
+            "explain AI approaches and their application in seminar settings."
+        ],
+        "outcomes": [
+            "AI and adaptive systems",
+            "machine learning",
+            "research investigation",
+            "multidisciplinary team",
+            "academic writing",
+            "algorithms"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "AI and adaptive systems",
+            "machine learning",
+            "research investigation",
+            "multidisciplinary team",
+            "academic writing",
+            "algorithms"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS5506",
+        "Title": "The Internet of Things - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit identifies the characteristics and limitations of small hardware devices, communication, and software infrastructure and environments providing mobile and ubiquitous computing contexts. Topics include smartphone and tablet programming, key programming paradigms, user interface design for small form-factor devices, data persistence, messaging and networking, embedded sensors, location-based services, and security and privacy.",
+        "Unit Learning Outcomes": [
+            "discuss Internet of Things (IoT), its potentials, and issues with their peers and with non-specialists",
+            "design, implement, and demonstrate a IoT based application using distributed small devices in a ubiquitous computing environment",
+            "use a range of current tools and techniques in the construction and deployment of software in ubiquitous computing environments for IoT applications"
+        ],
+        "outcomes": [
+            "ubiquitous computing",
+            "Internet of Things (IoT)",
+            "IoT applications",
+            "software engineering",
+            "security concepts",
+            "networking",
+            "stakeholder communication"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "ubiquitous computing",
+            "Internet of Things (IoT)",
+            "IoT applications",
+            "software engineering",
+            "security concepts",
+            "networking",
+            "stakeholder communication"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS4403",
+        "Title": "Computational Modelling - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit explores current research topics in computational modelling. Students develop skills to identify problems, formulate solutions and conduct further research in open questions in this domain.",
+        "Unit Learning Outcomes": [
+            "communicate effectively to present computational models to address a given research hypothesis and qualify the limitations of these models",
+            "analyse and discuss current open research topics in the field of computational modelling",
+            "explain the concepts and technologies used in the field of computational modelling",
+            "design, apply and analyse relevant technologies to solve problems in the field of computational modelling"
+        ],
+        "outcomes": [
+            "computational modelling",
+            "research investigation",
+            "academic writing"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "computational modelling",
+            "research investigation",
+            "academic writing"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS5552",
+        "Title": "Software Engineering Design Project 2 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit is taken over two semesters and parts 1 and 2 must be completed to fulfil the requirements of the unit. The project is a capstone experience in which students integrate and apply knowledge and skills acquired in earlier units to a substantial real-world design challenge relevant to their discipline. Students work in teams, typically with four to six members, and are supervised by an academic and/or industry mentor. Teams are responsible for managing their project as well as reporting against milestones and preparing the necessary design documentation. The academic objectives of the project are to lead students through a systematic engineering design and synthesis process and to better prepare them for professional practice as engineers. The focus of the unit is the delivery of outcomes to a professional standard.",
+        "Unit Learning Outcomes": [
+            "apply engineering synthesis and design processes relevant to software engineering",
+            "seek out the requirements and associated resources to assess the scope, dimensions, scale of effort and indicative costs of a complex engineering project",
+            "apply technical knowledge, appropriate tools and problem-solving skills to achieve a desired outcome to satisfy user requirements",
+            "apply project management tools and processes to the planning and execution of a design project",
+            "demonstrate ethical conduct and professional accountability",
+            "critically analyse design inputs, processes and outputs",
+            "locate and apply relevant standards, regulations, and technical literature",
+            "use discourse conventions relevant to the discipline",
+            "communicate clearly, effectively and appropriately using written, oral and visual means",
+            "contribute to and/or manage a complex engineering project activity, as a member and/or leader of an engineering team"
+        ],
+        "outcomes": [
+            "engineering synthesis and design processes",
+            "software engineering",
+            "multidisciplinary team",
+            "professional responsibility",
+            "project management tools and processes",
+            "ethical conduct",
+            "standards and regulations",
+            "academic writing",
+            "stakeholder communication"
+        ],
+        "invalid_outcomes": [
+            "project management tools and processes",
+            "ethical conduct",
+            "standards and regulations"
+        ],
+        "valid_outcomes": [
+            "engineering synthesis and design processes",
+            "software engineering",
+            "multidisciplinary team",
+            "professional responsibility",
+            "academic writing",
+            "stakeholder communication"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS5504",
+        "Title": "Data Warehousing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Relational databases are the backbones of modern businesses in processing transactions and storing customer data. Most organisations usually deploy several relational databases for operational convenience. It is quite often necessary to integrate the information existing in different relational databases for planning and decision making. Data warehouses are built to facilitate planning and decision making in businesses integrating data from different relational databases. Online analytical processing (OLAP) is a technology that uses a data warehouse for answering aggregation queries often used in planning. While relational databases hold important transactional information of a business, the success of a business quite often depends on advanced planning and development of strategies based on customer behaviour. Data mining technologies are used for discovering such patterns and trends in data stored in relational databases. This unit introduces the key mechanisms in data warehousing and OLAP. It discusses logical and physical design of data warehouses including star schema, snowflake schema, data marts, partitioning and materialised views. Students study the use of data warehouses through a study of the OLAP technology including the multidimensional OLAP (MOLAP) and relational OLAP (ROLAP) architectures, OLAP operations and structured query language (SQL) support for OLAP.",
+        "Unit Learning Outcomes": [
+            "understand that discovering and extracting knowledge from a massive amount of data is a key problem in many scientific and business disciplines",
+            "demonstrate a thorough understanding of key data warehousing and online analytical processing technologies",
+            "apply key data warehousing concepts in designing solutions for business data analytics"
+        ],
+        "outcomes": [
+            "data warehousing",
+            "SQL",
+            "data analysis"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "data warehousing",
+            "SQL",
+            "data analysis"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS4401",
+        "Title": "Software Requirements and Design - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Requirements and design are important phases of software development because errors or misunderstandings of software requirements or designs are expensive to correct during later stages and may lead to project failure. This unit introduces the theory and practice of software requirements and design. The content comprises (1) requirements engineering (2) software design (3) software architectures; and (4) design patterns and idioms.",
+        "Unit Learning Outcomes": [
+            "classify types of software requirements and designs",
+            "apply requirements and design processes appropriate for a given scenario",
+            "assess quality attributes of given requirements and designs",
+            "utilise design patterns and idioms",
+            "document software design rationale using discourse conventions of the disciplinee",
+            "select a software architecture appropriate for a particular context"
+        ],
+        "outcomes": [
+            "software development",
+            "software engineering"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "software development",
+            "software engineering"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS5503",
+        "Title": "Cloud Computing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit introduces cloud computing as the provision of computing resources. Students are exposed to modern systems architectures and software development kits that, together, provide cloud computing frameworks. They learn about different aspects of the design, development, provisioning and management of cloud-based applications. \n\nStudents gain a sound understanding of cloud-based computing and the opportunities that it provides for a diverse range of computing applications. \nSpecial attention is made to security of cloud-based applications and the different strategies that are available in these deployments. \n\nStudents will learn how to carry out operations on the cloud by developing software and utilising application programming interfaces for the services provided by the cloud platform.",
+        "Unit Learning Outcomes": [
+            "apply services and architectures offered by virtualisation and cloud platforms to business and research problems",
+            "write code to utilise application programming interfaces to interact with the cloud platform",
+            "explain how cloud platforms can be used by organisations to achieve efficiencies in developing, operating and scaling modern applications",
+            "propose new ways of modifying, extending or combining existing methodologies and implementation techniques",
+            "apply international standards documents and application programming interface documentation",
+            "examine the potential for, and practicality of, developing cloud computing architectures for specific applications"
+        ],
+        "outcomes": [
+            "cloud platforms",
+            "software development",
+            "cybersecurity",
+            "software engineering",
+            "internet technologies"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "cloud platforms",
+            "software development",
+            "cybersecurity",
+            "software engineering",
+            "internet technologies"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS4002",
+        "Title": "Computer Science and Software Engineering Research Project Part 2 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit is taken over two semesters and parts 1 and 2 must be completed to fulfil the requirements of the unit. Students undertake a major research project on a topic relevant to the computing discipline.",
+        "Unit Learning Outcomes": [
+            "apply research methodologies to plan and execute a research investigation",
+            "develop skills in problem formulation, in designing and analysing solutions and experiments, and in the presentation of research findings"
+        ],
+        "outcomes": [
+            "research investigation",
+            "computational problem solving",
+            "academic writing",
+            "research methodologies"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "research investigation",
+            "computational problem solving",
+            "academic writing",
+            "research methodologies"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS5206",
+        "Title": "Professional Computing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "Unlike other computing units you will have taken, which are about different aspects of computer or data science, CITS5206 Professional Computing is deliberately outward facing - to your future role in industry. For example, the unit teaches an appreciation of the ethical and social implications of computing projects, and aspects of project management, in the context of a large-scale computing projects. The bulk of the unit is then taken up with a large group project involving five or six students per group. The project will give you the opportunity to practice various project management techniques and communication skills, and to try different roles in a computing project team.",
+        "Unit Learning Outcomes": [
+            "apply knowledge and skills of information technology in project situations",
+            "critically analyse requirements and resources for IT projects",
+            "justify the professional responsibility to produce reliable software and systems",
+            "assess the social impacts of IT projects",
+            "perform effectively as part of a multidisciplinary and multicultural team"
+        ],
+        "outcomes": [
+            "professional responsibility",
+            "social impacts",
+            "multidisciplinary team",
+            "software development",
+            "agile methodology",
+            "stakeholder communication"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "professional responsibility",
+            "social impacts",
+            "multidisciplinary team",
+            "software development",
+            "agile methodology",
+            "stakeholder communication"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS3001",
+        "Title": "Algorithms, Agents and Artificial Intelligence - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit reinforces key concepts from CITS2200 Data Structures and Algorithms, and extends them to consider algorithms in the context of autonomous programs, or agents. We introduce ideas such as decision making, goal-directed behaviour, heuristic search, action selection, performance (self-evaluation), expected return and learning. These concepts are explored in the context of artificial intelligence or 'intelligent agents'.",
+        "Unit Learning Outcomes": [
+            "explain various ways in which algorithms can learn, their relationships, and their potential power and pitfalls",
+            "assess the performance of algorithms and appreciate the extra requirements of algorithms operating in an autonomous context",
+            "develop and implement a software agent in a suitable software engineering framework",
+            "research a relevant area of interest and effectively communicate the results through scientific writing and experimental analysis"
+        ],
+        "outcomes": [
+            "algorithms",
+            "AI and adaptive systems",
+            "performance evaluation",
+            "software engineering",
+            "research investigation",
+            "academic writing"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "algorithms",
+            "AI and adaptive systems",
+            "performance evaluation",
+            "software engineering",
+            "research investigation",
+            "academic writing"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS2211",
+        "Title": "Discrete Structures - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit contains an overview of the mathematical foundations of computer science including basic set theory and logic, formal proof methodologies, and automata theory. The unit applies this knowledge to real problems in computer science and software engineering, specifically the demonstration of program correctness and the specification of computer systems. Topics include set theory, relations, functions, predicate logic, formal proofs of correctness, finite state automata and automata theory.",
+        "Unit Learning Outcomes": [
+            "demonstrate critical thinking and information literacy",
+            "understand the mathematical foundations of computer science and the evolution and history of the discipline",
+            "demonstrate a familiarity with basic set theory, relations, functions, predicate logic, correctness proofs, finite state automata and automata theory as tools used in computer science and software engineering",
+            "identify, abstract and analyse problems in computer science and software engineering using the mathematical models",
+            "apply logical reasoning to problems in software engineering"
+        ],
+        "outcomes": [
+            "mathematical foundations",
+            "formal project correctness",
+            "computational models"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "mathematical foundations",
+            "formal project correctness",
+            "computational models"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS3003",
+        "Title": "Graphics and Animation - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit teaches the fundamentals of computer-generated three-dimensional graphics and animation for applications, including creating interactive virtual environments. The unit introduces the virtual image formation process using a synthetic camera model. The OpenGL API is introduced for writing interactive graphics programs. Fundamental techniques are emphasised, such as using the homogeneous coordinate system for affine transformations. The unit then covers lighting and shading models, as well as the use of GLSL programmable shaders. Finally, three-dimensional animation techniques are covered, with an emphasis on realistic modelling of articulated bodies. The practical component of the unit involves developing a realistic three-dimensional image application involving animation using the core concepts covered in the unit.",
+        "Unit Learning Outcomes": [
+            "demonstrate technical competence in three-dimensional graphics",
+            "apply basic knowledge of graphics systems, graphical techniques and rendering",
+            "develop graphics applications using the OpenGL API and the C programming language",
+            "identify, formulate and create three-dimensional virtual worlds and interactively manipulate these virtual worlds",
+            "advance into areas involving graphics and spatial computation, such as games programming, computer vision and scientific visualisation"
+        ],
+        "outcomes": [
+            "graphics programming",
+            "image processing",
+            "computer vision",
+            "programming",
+            "software development"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "graphics programming",
+            "image processing",
+            "computer vision",
+            "programming",
+            "software development"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS2200",
+        "Title": "Data Structures and Algorithms - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "At the core of most computer applications is the storage and retrieval of information. The way that the stored data is structured has a strong impact on what can be retrieved, how quickly it can be retrieved and how much space it occupies. The use of generic structures, or abstract data types (ADTs), to encapsulate the data also facilitates software engineering principles of independent modification, extension and re-use. This unit studies the specification, implementation and time-and-space performance of a range of commonly used ADTs and corresponding algorithms in an object-oriented setting.",
+        "Unit Learning Outcomes": [
+            "undertake problem identification via abstraction",
+            "describe common and important data structures and algorithms in the computing discipline",
+            "implement a range of data structures and information literacy algorithms in a high-level programming language",
+            "apply existing data structures and algorithms from pre-built software libraries",
+            "design data structures and algorithms",
+            "critically assess the performance of different data structures and algorithms"
+        ],
+        "outcomes": [
+            "data structures and algorithms",
+            "software engineering",
+            "object-oriented principles",
+            "performance evaluation"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "data structures and algorithms",
+            "software engineering",
+            "object-oriented principles",
+            "performance evaluation"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS5015",
+        "Title": "Data Science Research Project Part 2 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "In this unit students develop a final research project report supported by a seminar presentation and poster.  The research project topic may be chosen from a list of topics provided by the Department of Computer Science and Software Engineering or on a proposed topic relevant to Data Science and negotiated with the Project Supervisor. Students are expected to conduct qualitative research work or solve important data science research problems with certain research challenges.",
+        "Unit Learning Outcomes": [
+            "execute research investigations to answer the research questions",
+            "valuate existing ideas, algorithms, methodologies or solutions answering the same or similar research questions",
+            "justify the conclusions with systematic investigations and interpretations of results",
+            "communicate effectively in academic writing and oral presentation"
+        ],
+        "outcomes": [
+            "research investigation",
+            "data science",
+            "academic writing"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "research investigation",
+            "data science",
+            "academic writing"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS2005",
+        "Title": "Object Oriented Programming - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit introduces the language and techniques needed to write well-structured programs using the object-oriented paradigm with the Java programming language.  The focus of this unit is developing appropriate classes and methods to solve real-world problems. The unit also covers advanced topics including generics, the Java Platform, concurrency, serialization and exceptions. Appropriate software engineering principles and concepts are also discussed in the context of object-oriented design in Java.",
+        "Unit Learning Outcomes": [
+            "implement object-oriented design of solutions to real-world problems",
+            "design Java programs using packages and classes with inheritance, generics, interfaces and abstract classes",
+            "understand the use of multithreading for designing Java programs with concurrency;",
+            "make effective use of software development practices to write, test, debug and document Java programs;"
+        ],
+        "outcomes": [
+            "programming",
+            "Java",
+            "object-oriented principles",
+            "software development",
+            "multithreading",
+            "software engineering"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "programming",
+            "Java",
+            "object-oriented principles",
+            "software development",
+            "multithreading",
+            "software engineering"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS5011",
+        "Title": "Data Science Research Project Part 1 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "The Data Science Research Project consists of 24 credits points and comprises CITS5011, CITS5012 and CITS5013 that are taken over two consecutive semesters and must be completed to fulfill the requirements of the Data Science Research Project.  Students can commence the units in either semester 1 or semester 2.\n\nCITS5011 is Part 1 of the Master of Data Science Research Project and consists the completion of a Research Project Description and a Research Project Progress Report.  After completing CITS5011 (Part 1), students are able to continue their assessment by enrolling and completing CITS5012 (Part 2) and CITS5013 (Part 3) in their second semester of the project and includes the completion of a Final Project Report and a Presentation and Seminar.\n\nThe research project topic may be chosen from a provided Department list or on a proposed topic relevant to Data Science and negotiated with the Project Supervisor.  Students are expected to conduct qualitative research work or solve important data science research problems with certain research challenges.",
+        "Unit Learning Outcomes": [
+            "gain experience in research methodologies and learn how to plan and execute a research investigation",
+            "develop skills in problem formulation, in designing and analysing solutions and experiments, and in the presentation of research findings",
+            "develop academic writing and presentation skills",
+            "gain knowledge and an in-depth understanding about the scope of data science."
+        ],
+        "outcomes": [
+            "research methodologies",
+            "research investigation",
+            "data science",
+            "academic writing"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "research methodologies",
+            "research investigation",
+            "data science",
+            "academic writing"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS3004",
+        "Title": "Cybersecurity - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit provides an introduction to cybersecurity in the context of computer systems and the networks that connect them. It will start by taking a look at an overview of the cybersecurity issues we are faced today. Then, we look at cryptosystems, which forms the founding blocks of various security mechanisms and approaches. Various cyberattack techniques are presented, and defense mechanisms to mitigate them. We review the security management and software security aspects, as well as emerging security issues. The unit concludes with an overview of the materials covered, summarising the role of cybersecurity in our daily lives.",
+        "Unit Learning Outcomes": [
+            "describe current issues and problems of cybersecurity",
+            "demonstrate an understanding of the basic security concepts of computers and networks",
+            "explain basic security concepts and their applications",
+            "implement basic security solutions",
+            "evaluate security design, implementation and security practices"
+        ],
+        "outcomes": [
+            "cybersecurity",
+            "computer systems",
+            "networking",
+            "security concepts",
+            "software security aspects"
+        ],
+        "invalid_outcomes": [
+            "software security aspects"
+        ],
+        "valid_outcomes": [
+            "cybersecurity",
+            "computer systems",
+            "networking",
+            "security concepts"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS5012",
+        "Title": "Data Science Research Project Part 2 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "The Data Science Research Project consists of 24 credit points and comprises CITS5011, CITS5012 and CITS5013 that are taken over two consecutive semesters and must be completed to fulfill the requirements of the Data Science Research Project. Students can commence the units in either semester 1 or semester 2.\n\nCITS5011 is Part 1 of the Master of Data Science Research Project and consists the completion of a Research Project Description and a Research Project Progress Report. After completing CITS5011 (Part 1), students are able to continue their assessment by enrolling and completing CITS5012 (Part 2) and CITS5013 (Part 3) in their second semester of the project and includes the completion of a Final Project Report and a Presentation and Seminar.\n\nThe research project topic may be chosen from a list of topics provided by the Department of Computer Science and Software Engineering or on a proposed topic relevant to Data Science and negotiated with the Project Supervisor. Students are expected to conduct qualitative research work or solve important\ndata science research problems with certain research challenges.",
+        "Unit Learning Outcomes": [
+            "gain experience in research methodologies and learn how to plan and execute a research investigation",
+            "develop skills in problem formulation, in designing and analysing solutions and experiments, and in the presentation of research findings",
+            "develop academic writing and presentation skills",
+            "gain knowledge and an in-depth understanding about the scope of data science"
+        ],
+        "outcomes": [
+            "data science",
+            "research methodologies",
+            "research investigation",
+            "academic writing"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "data science",
+            "research methodologies",
+            "research investigation",
+            "academic writing"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS3402",
+        "Title": "High Performance Computing - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "High performance computing is an integral part of modern scientific and engineering research. Most physical systems are explored through simulation and modelling using high performance computing tools like parallel computers. This unit introduces students to the essential tools and techniques of high performance computing. The main objectives are to introduce students to different frameworks of parallel and distributed computing that they can use in their specific areas of interest. The students learn to program multi core processors using OpenMP, and clusters of personal computers using MPI. Students examine high performance computing case studies from different scientific disciplines and also work on individual or group projects to consolidate their learning.\nMapReduce is a programming paradigm for processing large data sets on clusters of computers. The implementation of MapReduce through Spark and the distributed file system HDFS has become a widely used programming model for high performance computing in the last decade. This unit will also introduce students to this programming model through lectures and laboratory exercises.",
+        "Unit Learning Outcomes": [
+            "formulate and implement high performance computing solutions for scientific problems",
+            "demonstrate expertise in problem solving in parallel using distributed memory and distributed shared memory architectures, the two most common frameworks for high performance computing"
+        ],
+        "outcomes": [
+            "high-performance computing",
+            "parallel computers",
+            "simulation and modelling",
+            "programming",
+            "distributed computing",
+            "multithreading"
+        ],
+        "invalid_outcomes": [
+            "parallel computers",
+            "simulation and modelling",
+            "distributed computing"
+        ],
+        "valid_outcomes": [
+            "high-performance computing",
+            "programming",
+            "multithreading"
+        ],
+        "degree": "BA"
+    },
+    {
+        "Unit Code": "CITS5013",
+        "Title": "Data Science Research Project Part 3 - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "The Data Science Research Project consists of 24 credit points and comprises CITS5011, CITS5012 and CITS5013 that are taken over two consecutive semesters and must be completed to fulfill the requirements of the Data Science Research Project. Students can commence the units in either semester 1 or semester 2.\n\nCITS5011 is Part 1 of the Master of Data Science Research Project and consists the completion of a Research Project Description and a Research Project Progress Report. After completing CITS5011 (Part 1), students are able to continue their assessment by enrolling and completing CITS5012 (Part 2) and CITS5013 (Part 3) in their second semester of the project and includes the completion of a Final Project Report and a Presentation and Seminar.\n\nThe research project topic may be chosen from a list of topics provided by the Department of Computer Science and Software Engineering or on a proposed topic relevant to Data Science and negotiated with the Project Supervisor. Students are expected to conduct qualitative research work or solve important\ndata science research problems with certain research challenges.",
+        "Unit Learning Outcomes": [
+            "gain experience in research methodologies and learn how to plan and execute a research investigation",
+            "develop skills in problem formulation, in designing and analysing solutions and experiments, and in the presentation of research findings",
+            "develop academic writing and presentation skills",
+            "gain knowledge and an in-depth understanding about the scope of data science"
+        ],
+        "outcomes": [
+            "data science",
+            "research methodologies",
+            "research investigation",
+            "academic writing"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "data science",
+            "research methodologies",
+            "research investigation",
+            "academic writing"
+        ],
+        "degree": "MA"
+    },
+    {
+        "Unit Code": "CITS5553",
+        "Title": "Data Science Capstone Project - Face to face / Blended learning",
+        "School": "Physics, Mathematics and Computing",
+        "Content": "This unit provides a capstone experience where students integrate and apply knowledge and skills acquired in earlier units to a substantial real-world information technology project. Students work in teams of typically four to six members, supervised by an academic and/or industry mentor. Each team is responsible for managing their project through group meetings and mentor/client meetings, submitting group deliverables against milestones, preparing the necessary design documentation, and choosing and following appropriate software processes. Individuals are expected to perform professionally in a team-based environment and reflect on their contributions to the team. A number of lectures are given to teach communication skills, principles of project management and the fundamental ethical and social principles involved in large-scale data science projects. The academic objectives of this unit are to lead students through a sizeable team-based effort to go through design, synthesis, development and deployment, the full data science practice life cycle, to better prepare them as professional data scientists.",
+        "Unit Learning Outcomes": [
+            "assess the scope, dimensions, scale of effort and indicative costs of a complex data science project",
+            "analyse data by carrying out exploratory data analysis",
+            "build predictive or other suitable computational models for data-driven business decision making",
+            "evaluate model performance against a set of standard metrics recognised by the data science community",
+            "interpret model results meaningfully for effective communication with all stakeholders via written, oral and visual means",
+            "perform professionally as an individual and as part of a multidisciplinary and multicultural team"
+        ],
+        "outcomes": [
+            "multidisciplinary team",
+            "stakeholder communication",
+            "data science",
+            "data analysis",
+            "computational models",
+            "performance evaluation",
+            "data visualization",
+            "professional responsibility",
+            "social impacts",
+            "software development",
+            "agile methodology"
+        ],
+        "invalid_outcomes": [],
+        "valid_outcomes": [
+            "multidisciplinary team",
+            "stakeholder communication",
+            "data science",
+            "data analysis",
+            "computational models",
+            "performance evaluation",
+            "data visualization",
+            "professional responsibility",
+            "social impacts",
+            "software development",
+            "agile methodology"
+        ],
+        "degree": "MA"
+    }
+]

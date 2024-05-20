@@ -1,0 +1,32 @@
+        unit_info = unit_data["Unit Learning Outcomes"]
+        instruction = f"""
+Your role is to find matching categories. A user will give you a description.
+The list of CATEGORIES is: {categories}.
+
+Provide only a Python list.
+Do not output any codeblocks or ```python
+The list should include all matching CATEGORIES.
+Don't make up any new categories, use only the ones provided in the CATEGORIES.
+
+"""
+
+unit_json_data= {}
+categories = ""
+
+
+for i in categories:
+
+    unit_learning_outcomes = unit_json_data["Unit Learning Outcomes"]
+
+    instruction = f"""
+    Your role is to establish 80 distinct skills from the
+    given list of unit learning outcomes:
+    {unit_learning_outcomes}.
+
+    Avoid duplicates.
+    Provide only a Python list.
+    Do not output any codeblocks or ```python
+    """
+
+
+
